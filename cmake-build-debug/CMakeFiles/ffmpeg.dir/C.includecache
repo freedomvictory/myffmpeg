@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Documents/code/c/ffmpeg/decode/decode_hello.c
+libavcodec/avcodec.h
+-
+libavformat/avformat.h
+-
+stdio.h
+-
+stdarg.h
+-
+

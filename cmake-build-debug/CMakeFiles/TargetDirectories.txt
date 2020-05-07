@@ -1,0 +1,3 @@
+/mnt/d/Documents/code/c/ffmpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Documents/code/c/ffmpeg/cmake-build-debug/CMakeFiles/ffmpeg.dir
+/mnt/d/Documents/code/c/ffmpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
