@@ -1,1 +1,1 @@
-/usr/bin/gcc   -lavformat  -g   CMakeFiles/ffmpeg.dir/decode/decode_hello.c.o  -o ffmpeg 
+/usr/bin/gcc   -lavformat -lavcodec -lavutil  -g   CMakeFiles/ffmpeg.dir/decode/decode_hello.c.o  -o ffmpeg 
